@@ -1,0 +1,12 @@
+Lesson 1 Introduction to Python
+Overview of Python, Jupyter notebooks, and why we are learning it.
+
+Arithmetic operations
+Variable assignment
+Strings, Integers, Floats, Boolean, and List data types
+Nested list indexing
+List Indexing and manipulation (very useful for future NumPy and Pandas syntax)
+For loops
+If/Else conditional statements
+List comprehensions evenOrOdd = ["even" if x%2 == 0 else "odd" for x in list1]
+Introduction to Recursive Functions
